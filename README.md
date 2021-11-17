@@ -42,8 +42,8 @@ A partir da letra em libras feito na câmera, um IA irá aplicar o que foi feito
 - [ ] Treinar a IA para detectar frases
 
 ## Autores
-- Victor Matheus Silva Lima (https://github.com/Victor-Silva98)
 - Higor Frade (https://github.com/higorfrade)
+- Victor Matheus Silva Lima (https://github.com/Victor-Silva98)
 - Jose Siqueira (https://github.com/js-siqueira)
 
 ## Orientador e Professor
